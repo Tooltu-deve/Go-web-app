@@ -1,4 +1,4 @@
 image:
   repository: tooltu/go-web-app
   pullPolicy: IfNotPresent
-  tag: "23090891883"
+  tag: "23091297739"
